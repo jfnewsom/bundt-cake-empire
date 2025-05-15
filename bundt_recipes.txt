@@ -1,10 +1,11 @@
-lemon lavender,18.50,flour;eggs;sugar;butter;lemon_juice;lemon_zest
-chocolate chocolate chip,20.00,flour;eggs;sugar;butter;cocoa_powder;sour_cream
-red velvet,19.00,flour;eggs;sugar;butter;buttermilk;vanilla
-banana nutella,21.00,flour;eggs;sugar;butter;vanilla;sour_cream
-pumpkin spice,18.75,flour;eggs;sugar;butter;pumpkin_puree;cinnamon;nutmeg
-blueberry lemon,19.50,flour;eggs;sugar;butter;blueberries;lemon_juice
-cinnamon roll,17.50,flour;eggs;sugar;butter;cinnamon;sour_cream
-vanilla bean,18.00,flour;eggs;sugar;butter;vanilla;buttermilk
-salted caramel,20.50,flour;eggs;sugar;butter;sour_cream;vanilla
-funfetti,17.00,flour;eggs;sugar;butter;vanilla;sprinkles
+# Cake Name,Price,Ingredients
+Lemon Lavender,18.50,flour:2;eggs:3;sugar:2;butter:1;lemon_juice:1;lemon_zest:1
+Chocolate Chocolate Chip,20.00,flour:2;eggs:2;sugar:2;butter:1;cocoa_powder:2;sour_cream:1
+Red Velvet,22.00,flour:2;eggs:2;sugar:2;buttermilk:1;vanilla:1;cocoa_powder:1
+Banana Nutella,21.50,flour:2;eggs:2;sugar:2;butter:1;vanilla:1
+Pumpkin Spice,19.75,flour:2;eggs:2;sugar:2;pumpkin_puree:1;cinnamon:1;nutmeg:1
+Blueberry Lemon,19.50,flour:2;eggs:2;sugar:2;blueberries:1;lemon_zest:1
+Cinnamon Roll,18.00,flour:2;eggs:2;sugar:2;cinnamon:2;butter:1
+Vanilla Bean,20.00,flour:2;eggs:2;sugar:2;vanilla:2;butter:1
+Salted Caramel,21.25,flour:2;eggs:2;sugar:2;butter:1;vanilla:1
+Funfetti,19.25,flour:2;eggs:2;sugar:2;sprinkles:1;vanilla:1

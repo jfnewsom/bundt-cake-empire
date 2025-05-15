@@ -1,3 +1,4 @@
+# Format: customer_name,cake_type,quantity
 Maria Lopez,Lemon Lavender,2
 James Kim,Chocolate Chocolate Chip,1
 Nina Patel,Red Velvet,3
