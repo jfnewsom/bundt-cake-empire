@@ -1,0 +1,15 @@
+flour,100,0.25
+eggs,100,0.20
+sugar,100,0.15
+butter,100,0.50
+lemon_juice,30,0.40
+lemon_zest,20,0.30
+cocoa_powder,40,0.75
+sour_cream,40,0.80
+buttermilk,30,0.50
+vanilla,25,0.60
+pumpkin_puree,30,0.55
+cinnamon,40,0.10
+nutmeg,25,0.15
+blueberries,35,0.45
+sprinkles,30,0.35

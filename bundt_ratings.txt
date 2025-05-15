@@ -1,0 +1,8 @@
+Maria Lopez|Chocolate Fudge|5
+Evan Grant|Lemon Zest|4
+Priya Das|Pumpkin Spice|3
+James Wu|Red Velvet|5
+Sasha King|Cinnamon Swirl|4
+Chris B.|Pumpkin Spice|2
+Nina Patel|Lemon Zest|5
+Tony Delgado|Chocolate Fudge|4

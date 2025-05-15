@@ -1,0 +1,10 @@
+lemon lavender,18.50,flour;eggs;sugar;butter;lemon_juice;lemon_zest
+chocolate chocolate chip,20.00,flour;eggs;sugar;butter;cocoa_powder;sour_cream
+red velvet,19.00,flour;eggs;sugar;butter;buttermilk;vanilla
+banana nutella,21.00,flour;eggs;sugar;butter;vanilla;sour_cream
+pumpkin spice,18.75,flour;eggs;sugar;butter;pumpkin_puree;cinnamon;nutmeg
+blueberry lemon,19.50,flour;eggs;sugar;butter;blueberries;lemon_juice
+cinnamon roll,17.50,flour;eggs;sugar;butter;cinnamon;sour_cream
+vanilla bean,18.00,flour;eggs;sugar;butter;vanilla;buttermilk
+salted caramel,20.50,flour;eggs;sugar;butter;sour_cream;vanilla
+funfetti,17.00,flour;eggs;sugar;butter;vanilla;sprinkles
